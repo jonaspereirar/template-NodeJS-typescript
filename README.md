@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/jonaspereirar/template-typescript/blob/master/Type and node.jpg?raw=true" width="260px">
+  <img src="https://github.com/jonaspereirar/template-typescript/blob/master/Type and node.jpg?raw=true" width="800px">
   <br>
   Style Rocketseat 🚀🚀🚀
   <br>
